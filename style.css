@@ -1,0 +1,58 @@
+/* Estilo geral do corpo */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    line-height: 1.8;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    font-size: 16px;
+    text-align: justify;
+  }
+  
+  /* Estilo para o cabeçalho */
+  header {
+    text-align: center;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #e0e0e0;
+  }
+  
+  h1 {
+    color: #e74c3c;
+    font-size: 36px;
+    font-weight: bold;
+    letter-spacing: 1px;
+  }
+  
+  header p {
+    font-style: italic;
+    color: #7f8c8d;
+    font-size: 18px;
+  }
+  
+  /* Estilo para os títulos dos dias */
+  h2 {
+    color: #2c3e50;
+    font-size: 24px;
+    margin-top: 30px;
+    border-bottom: 2px solid #f39c12;
+    padding-bottom: 5px;
+  }
+  
+  /* Estilo para o conteúdo dos dias */
+  section {
+    margin-bottom: 30px;
+  }
+  
+  /* Estilo para os parágrafos */
+  p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-indent: 20px;
+  }
+  
